@@ -36,9 +36,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-<a href="https://www.easycounter.com/">
-<img src="https://www.easycounter.com/counter.php?29azrael"
-border="0" alt="HTML Counter"></a>
-<br><a href="https://www.easycounter.com/">Free Web Counter</a>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4714765504808689"
-     crossorigin="anonymous"></script>
+
