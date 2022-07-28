@@ -5,8 +5,8 @@ header-img: img/post-bg-desk.jpg
 email: webview1001@gmail.com
 description: "Every failure is leading towards success."
 keyword: "news blog"
-url: "http://shiyunjie.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+url: "https://shiyunjie.github.io"          # your host, for absolute URL
+baseurl: "https://shiyunjie.github.io"      # for example, '/blog' if your blog hosted on 'host/blog'
 #github_repo: "https://github.com/shiyunjie/shiyunjie.github.io.git" # you code repository
 
 # Sidebar settings
