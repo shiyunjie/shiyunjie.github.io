@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Mastering Ethereum
+title:      MasteringEthereum
 subtitle:   Mastering Ethereum
 date:       2022-08-04
 author:     SYJ
